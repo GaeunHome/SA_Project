@@ -4,15 +4,16 @@
 <h4>核心技術</h4>
 HTML、CSS、Javsscript、Bootstrap、Python、Django、Rest API Framework
 <h4>引用</h4>
-本專案在LINE登入與註冊採用「SA_CC客戶中心」此系統來驗證身份<br>
+本專案在LINE登入與註冊採用「SA_CC客戶中心」此系統來驗證身份。<br>
 https://github.com/hank1224/SA_ClientCenter
 
 # 功能
 <h4>階級</h4>
-<p>部分商品需達到對應等級才可兌換</p>
+<p>達到一定碳權點數可升級，並顯示階級圖片於首頁</p>
+<p>部分商品需達到對應等級才可兌換。</p>
 
 <h4>碳權存摺</h4>
-<p>使用者可通過此頁面查看碳權使用紀錄</p>
+<p>使用者可通過此頁面查看碳權使用紀錄。</p>
 
 <h4>傳值</h4>
-<p>AI智慧洗或其他系統可透過Rest API Framework傳值進入本系統，並且顯示在碳權存摺</p>
+<p>AI智慧洗或其他系統可透過Rest API Framework傳值進入本系統，並且顯示在碳權存摺。</p>
