@@ -4,7 +4,7 @@
 <h4>核心技術</h4>
 HTML、CSS、Javsscript、Bootstrap、Python、Django、Rest API Framework
 <h4>引用</h4>
-本專案在LINE登入與註冊採用引用此系統<br>
+本專案在LINE登入與註冊採用「SA_CC客戶中心」此系統來驗證身份<br>
 https://github.com/hank1224/SA_ClientCenter
 
 # 功能
