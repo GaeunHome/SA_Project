@@ -15,4 +15,4 @@ https://github.com/hank1224/SA_ClientCenter
 <p>使用者可通過此頁面查看碳權使用紀錄</p>
 
 <h4>傳值</h4>
-<p>AI智慧洗可通過Rest API Framework傳值進入本系統，並且顯示在碳權存摺</p>
+<p>AI智慧洗或其他系統可透過Rest API Framework傳值進入本系統，並且顯示在碳權存摺</p>
