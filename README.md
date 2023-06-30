@@ -10,3 +10,9 @@ https://github.com/hank1224/SA_ClientCenter
 # 功能
 <h4>階級</h4>
 <p>部分商品需達到對應等級才可兌換</p>
+
+<h4>碳權存摺</h4>
+<p>使用者可通過此頁面查看碳權使用紀錄</p>
+
+<h4>傳值</h4>
+<p>AI智慧洗可通過Rest API Framework傳值進入本系統，並且顯示在碳權存摺</p>
