@@ -5,7 +5,7 @@
 HTML、CSS、Javsscript、Bootstrap、Python、Django、Rest API Framework
 <h4>引用</h4>
 本專案在LINE登入與註冊採用「SA_CC客戶中心」此系統來驗證身份。<br>
-https://github.com/hank1224/SA_ClientCenter
+系統連結：https://github.com/hank1224/SA_ClientCenter
 
 # 功能
 <h4>階級</h4>
