@@ -1,13 +1,13 @@
 # 臺灣碳治郎
 
-## 團隊成員
-- 侯文家
+### 團隊成員
+- 侯文家（組長）
 - 劉建昱
 - 黃昱睿
 - 王永宗
 - 王之軍
 
-## 核心技術
+### 核心技術
 - HTML
 - CSS
 - JavaScript
@@ -16,9 +16,8 @@
 - Django
 - Rest API Framework
 
-## 引用
-本專案在 LINE 登入與註冊採用「SA_CC 客戶中心」系統來驗證身份。  
-[系統連結](https://github.com/hank1224/SA_ClientCenter)
+### 引用
+本專案在 LINE 登入與註冊採用「 [SA_CC 客戶中心](https://github.com/hank1224/SA_ClientCenter) 」系統來驗證身份。
 
 ## 功能
 
